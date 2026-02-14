@@ -57,23 +57,25 @@ Using natural language processing and machine learning techniques, predictive mo
    - Heatmap visualisation of feature correlations
 
 4. **Modelling Techniques**
-   
-   - **Decision Tree Classifier**
-     - GridSearchCV for hyperparameter tuning (`max_depth`: 1-5)
-     - 5-fold cross-validation
     
    - **Random Forest Classifier**
      - Ensemble method for robust predictions
-   
-   - **Support Vector Machines (SVM)**
-     - Ensemble techniques for improved accuracy
-     - Combined multiple base estimators
-     - Accuracy: 0.620
     
    - **Logistic Regression**
      - Normalised features using standardisation
      - Multi-class classification for `Grade` prediction
-     - Accuracy: 0.696
+     - Accuracy: 0.595
+   
+   - **Support Vector Machines (SVM)**
+     - Ensemble techniques for improved accuracy
+     - Combined multiple base estimators
+     - Accuracy: 0.662
+    
+   - **Decision Tree Classifier**
+     - GridSearchCV for hyperparameter tuning (`max_depth`: 1-5)
+     - 5-fold cross-validation
+     - Accuracy: 0.689
+    
 
 5. **Evaluation**
    - **Train–Test Split** (80/20)
