@@ -114,10 +114,3 @@ Using natural language processing and machine learning techniques, predictive mo
 ## License 
 This project was developed for academic purposes 2022. <br>
 If reused or distributed, please provide proper academic attribution.
-
-
-
-## License
-
-This project was developed for academic purposes (ADS2001 - Data Challenges).  
-If reused or distributed, please provide proper academic attribution.
