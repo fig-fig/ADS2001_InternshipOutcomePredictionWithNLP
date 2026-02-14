@@ -114,5 +114,5 @@ Using natural language processing and machine learning techniques, predictive mo
 ![TextBlob](https://img.shields.io/badge/TextBlob-4B8BBE?style=for-the-badge)
 
 ## License 
-This project was developed for academic purposes 2022. <br>
+This project was developed for academic purposes (2023). <br>
 If reused or distributed, please provide proper academic attribution.
