@@ -1,5 +1,16 @@
 # Virtual Internship Student Performance Prediction
 ### ADS2001 Data Challenges 3 | Semester 1 2023
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/seaborn-3776AB?style=for-the-badge)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-154f3c?style=for-the-badge)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
+![Plotly](https://img.shields.io/badge/plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![TextBlob](https://img.shields.io/badge/TextBlob-4B8BBE?style=for-the-badge)
 
 ## Introduction
 This project investigates **student performance in virtual internship settings** by analysing chat communication data from the Nephrotex virtual internship platform.  
@@ -95,23 +106,6 @@ Using natural language processing and machine learning techniques, predictive mo
 - Ensemble methods (Random Forest, Bagging, Voting) improve prediction accuracy
 - Feature engineering from unstructured text data enhances model performance
 - Word frequency and topic mentions correlate with outcome scores
-<br>
-
----
-
-## Built With
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/matplotlib-11557C?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/seaborn-3776AB?style=for-the-badge)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-154f3c?style=for-the-badge)
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
-![Plotly](https://img.shields.io/badge/plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![TextBlob](https://img.shields.io/badge/TextBlob-4B8BBE?style=for-the-badge)
 
 ## License 
 This project was developed for academic purposes (2023). <br>
